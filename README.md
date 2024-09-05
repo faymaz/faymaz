@@ -31,6 +31,5 @@ On the software side, I work with various programming languages including **C**,
 ## Kontakt | Contact
 
 - **Twitter:** [@Programirez](https://twitter.com/Programirez)
-- **TikTok:** [@Programirez](https://www.tiktok.com/@Programirez)
 
 Vielen Dank, dass du vorbeischaust! | Thanks for stopping by!
