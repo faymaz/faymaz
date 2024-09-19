@@ -1,5 +1,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=faymaz_faymaz)
+
+
 # Willkommen auf meiner GitHub-Seite! | Welcome to my GitHub page!
 
 ## Über mich | About me
@@ -35,3 +37,6 @@ On the software side, I work with various programming languages including **C**,
 - **Twitter:** [@Programirez](https://twitter.com/Programirez)
 
 Vielen Dank, dass du vorbeischaust! | Thanks for stopping by!
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faymaz&show_icons=true)
