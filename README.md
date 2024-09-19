@@ -32,11 +32,11 @@ On the software side, I work with various programming languages including **C**,
 - Scripting and automation with **Python** and **Bash**
 - Databases and API integration
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faymaz&show_icons=true)
+
 ## Kontakt | Contact
 
 - **Twitter:** [@Programirez](https://twitter.com/Programirez)
 
 Vielen Dank, dass du vorbeischaust! | Thanks for stopping by!
 
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faymaz&show_icons=true)
