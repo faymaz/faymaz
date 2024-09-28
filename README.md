@@ -1,4 +1,3 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![Hit Counter](https://visitor-badge.laobi.icu/badge?page_id=faymaz_faymaz)
 
 
