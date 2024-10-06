@@ -36,6 +36,7 @@ On the software side, I work with various programming languages including **C**,
 ## Kontakt | Contact
 
 - **Twitter:** [@Programirez](https://twitter.com/Programirez)
+- **Email:** [faymaz@aymaz.org](mailto:faymaz@aymaz.org)
 
 Vielen Dank, dass du vorbeischaust! | Thanks for stopping by!
 
