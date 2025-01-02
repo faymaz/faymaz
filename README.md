@@ -17,5 +17,5 @@ On the software side, I work with various programming languages including **C**,
 ## Kontakt | Contact
 - **Email:** [faymaz@aymaz.org](mailto:faymaz@aymaz.org)
 
-Vielen Dank, dass du vorbeischaust! | Thanks for stopping by!
+Thanks for stopping by!
 
